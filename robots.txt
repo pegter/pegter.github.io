@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pegter.github.io/YfE/sitemap.YfE.gz
